@@ -6,3 +6,12 @@
 .company{
   width: 350px;
 }
+
+.titulo{
+  /* display: inline; */
+  width: fit-content;
+  border: 1px black solid;
+  border-radius: 10px;
+  background-color: rgb(243, 216, 216);
+  padding: 5px 10px;
+}
